@@ -17,6 +17,39 @@ Salient Features of 5G
 With a huge array of innovative features, now your smart phone would be more parallel to the laptop. You can use broadband internet connection; other significant features that fascinate people are more gaming options, wider multimedia options, connectivity everywhere, zero latency, faster response time, and high quality sound and HD video can be transferred on other cell phone without compromising with the quality of audio and video.
 
 
+
+
+[5G Core (5GC): Creating what’s next | Nokia](https://www.nokia.com/networks/core/5g-core/)
+
+> ## What are 5G Core network functions?
+> 
+> Related questions include: What are the 5G core components? What is the core IP network? What is included in the core network? What is the 5G network architecture? What is the difference between 4G and 5G network architecture?
+> 
+> The 5G Core network functions, shown in light-blue for 5G SA2, resemble the 4G Core network elements, in that they provide familiar capabilities for mobility management, routing, security, policy control, charging, and subscriber data management. However, because the 5G core architecture is built using cloud-native technology including a 5G Service Based Architecture (5G SBA), the 5G core network elements take on a more software-based naming of network functions.
+> 
+> Furthermore, new capabilities are introduced in 5G Standalone Core, including:
+> 
+> -   [5G policy control](https://www.nokia.com/networks/core-networks/policy-control-function/), which determines the resources and services that can be used to support connected devices.
+> -   [Broadband Network Gateway](https://www.nokia.com/networks/ip-networks/multi-access-broadband-network-gateway/), for convergence with wireline networks
+> -   [5G core signaling](https://www.nokia.com/networks/core/5g-core/5g-signaling/), including the Network Repository Function, Service Communication Proxy, Security Edge Protection Proxy, and Binding Support Function
+> -   [Network Data Analytics Function](https://www.nokia.com/networks/bss-oss/nwdaf/), for extraction, processing and secure provision of data analytics for AI/ML applications
+> -   [Slice management](https://www.nokia.com/networks/network-slicing/automated-network-slicing/), including the Network Slice Selection Function.
+> 
+>  [![mobile core summary chart](https://www.nokia.com/sites/default/files/styles/scale_720_width/public/2022-02/Nokia%20Mobile%20Core%20hr_0.png)](https://www.nokia.com/sites/default/files/2022-02/Nokia%20Mobile%20Core%20hr_0.png) 
+> 
+> Click to enlarge Network function summary
+> 
+> ## What are 5G’s challenges?
+> 
+> What are the challenges when shifting to a cloud-native architecture and a service based architecture (SBA)? The 5G SA core (5GC) delivers ultra-reliable connectivity and low latency performance, which are critical to Industry 4.0, massively scaling Internet of Things (IoT), and the blending of physical and virtual experiences. The challenges in achieving this transformation include:
+> 
+> -   **How to profit** with services such as network slicing, which enables many applications and services to be used by many people and things.
+> -   **How to simplify** with a core geared for extreme automation, efficient operations, prevents errors from affecting productivity, and quickly scales larger and smaller when matching resources and demand.
+> -   **How to open** the core, so that it works across multi-cloud, serves any access, and is deployable anywhere including edge cloud. With the core’s open APIs, CSPs can create new services with their customers and partners.
+> -   **How to be confident** that the core delivers financial, operational and strategic benefits, while ensuring the transition is efficient, effective and secure.
+
+
+
 [5G AND THE FABLE OF THE ELEPHANT - 5G Tutorial Innovate](https://www.martel-innovate.com/news/2019/08/26/5g-and-the-fable-of-the-elephant/)
 
 > Remember the old fable of three blind people with the pachyderm? Each of them built an impression of the animal by touching it, and described quite different animals based on whether they felt the trunk, flank or tail. If 5G is that elephant, 5G Tutorial builds up an entire picture of 5G by working with all the parties involved in shaping it.
