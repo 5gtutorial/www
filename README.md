@@ -1,6 +1,28 @@
 # www.5gtutorial.com
 
 
+[5G Netzabdeckung: Stand des Netzausbaus | Telekom](https://www.telekom.de/netz/mobilfunk-netzausbau)
+[MagentaMobil Speedbox Flex Tarif Details | Telekom](https://www.telekom.de/unterwegs/tarife-und-optionen/magentamobil-speedbox/magentamobil-speedbox-flex/details)
+[Sieć 5G – sprawdź czym jest 5G | T-Mobile](https://www.t-mobile.pl/c/oferta-specjalna/5g-lab)
+
+
+
+[Mapa zasięgu Orange | Orange Polska](https://www.orange.pl/view/mapazasiegu)
+
+
+[ZTE MC801A 5G biały | Plus](https://www.plus.pl/telefon?deviceTypeList=MODEM&processSegmentationCode=ROP.IND.NEW.POSTPAID.DATA&marketTypeCode=IND&offerNSICode=MODIN12A&contractConditionCode=24A&tariffPlanCode=DIN50&offerSegmentationCode=ROP.IND.DATA.1&instCode=RR12&offerRevision=32&deviceStockCode=zte-mc801a-5g-white&deviceTypeCode=MODEM)
+
+
+[Abonament bez telefonu w Plus: nowy numer | Plus](https://www.plus.pl/abonament/przenies-numer)
+
+[Mapa Zasięgu | Plus](https://www.plus.pl/mapa-zasiegu)
+
+[Aktualna mapa zasięgów 5G w Polsce: Play, Plus, T-Mobile i Orange | PurePC.pl](https://www.purepc.pl/aktualna-mapa-zasiegow-5g-w-polsce-play-plus-t-mobile-i-orange)
+
+
+
+
+
 5G is the Fifth Generation technology. It has many advanced features potential enough to solve many of the problems of our mundane life. It is beneficial for the government, as it can make the governance easier; for the students, as it can make available the advanced courses, classes, and materials online; it is easier for the common people as well, as it can facilitate them the internet everywhere. So, this tutorial is divided into various chapters and describes the 5G technology, its applications, challenges, etc., in detail.
 Audience
 
