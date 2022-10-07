@@ -1,5 +1,7 @@
 # www.5gtutorial.com
 
+[www/README.md at main · private5g/www](https://github.com/private5g/www/blob/main/README.md)
+
 
 [5G Netzabdeckung: Stand des Netzausbaus | Telekom](https://www.telekom.de/netz/mobilfunk-netzausbau)
 [MagentaMobil Speedbox Flex Tarif Details | Telekom](https://www.telekom.de/unterwegs/tarife-und-optionen/magentamobil-speedbox/magentamobil-speedbox-flex/details)
@@ -18,6 +20,40 @@
 [Mapa Zasięgu | Plus](https://www.plus.pl/mapa-zasiegu)
 
 [Aktualna mapa zasięgów 5G w Polsce: Play, Plus, T-Mobile i Orange | PurePC.pl](https://www.purepc.pl/aktualna-mapa-zasiegow-5g-w-polsce-play-plus-t-mobile-i-orange)
+
+
+
+
+Private and secure: New 5G campus network offer by Deutsche Telekom
+
+    Share
+    Print
+    Read out
+
+    Campus network for business customers based on 5G standalone (SA) technology from Ericsson
+    Deutsche Telekom provides planning, deployment and operation
+    5G SA supports high-performance and safety-critical applications
+    Interested business customers can test private campus network
+
+Telekom offers new campus network product for business customers based on 5G standalone.
+
+Telekom offers new campus network product for business customers based on 5G standalone. © Ericsson Bearbeitung: Deutsche Telekom
+
+Standalone, secure and with maximized performance: Together with the network technology supplier Ericsson, Deutsche Telekom has extended its campus network portfolio. It now also offers location-specific 5G mobile networks for companies based on 5G Standalone Technology (5G SA). The new campus network offering is based on a local 5G infrastructure that is exclusively available for the customer's digital applications. The 5G SA technology works without LTE anchors and offers all the technical advantages of the new mobile communications standard - even for particularly demanding and safety-critical use cases: fast data transmission rates, maximum network capacity and highly reliable connectivity with low latency. With the advanced 5G SA technology, Deutsche Telekom and Ericsson support companies from a wide range of industries in developing innovative digital applications and making existing processes more efficient.
+High data security: dedicated 5G infrastructure, dedicated frequency
+
+The newly offered 5G SA Campus network – powered by the Ericsson Private 5G portfolio – operates completely separated from the public mobile network: all components of the infrastructure from the antennas to the standalone core network to the network server are located on the customer's premises. This ensures that sensitive data remains exclusively within the local campus network. The local connection of the customer infrastructure also enables particularly simple and fast processing of data via the private network. This standalone 5G architecture of "short distances" is most suitable for supporting business-critical applications that require ultra-short response times in the millisecond range. The 5G SA network operates on frequencies in the 3.7 to 3.8 GHz range that are specifically allocated to the enterprise. Thus, up to 100 MHz bandwidth is available for the exclusive use within the private campus network. 
+5G SA Campus Network: Full Control & Flexible Deployment 
+
+Customers can adapt their private 5G SA network flexibly according to their own requirements as well as manage it independently: Whether for real-time communication of robots in factories or for connecting automated vehicles on company premises. Customers can prioritize data traffic within their campus network for specific applications as needed. 
+
+The mobile network is administered on site via a cloud-based network management portal by the customer's IT staff - for example, the administration of users, 5G modules and SIM cards to access the 5G-SA campus network or to the machine control system. The closed system is characterized by its particularly high data security and reliability: Due to the redundant architecture of the local core network, the 5G SA campus network continues to function reliably even in the event of an interruption to the cloud-based management portal.
+
+
+
+
+
+
 
 
 
